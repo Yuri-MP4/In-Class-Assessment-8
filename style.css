@@ -20,10 +20,15 @@ h2 {
   color:mediumvioletred;
 }
 
+h3 { 
+  text-align: center;
+   }
+
 p {
   font-weight: bold;
   font-size: 20px;
   color:mediumpurple;
+  text-align: center;
 }
 
 ul, ol {
