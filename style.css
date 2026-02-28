@@ -20,6 +20,12 @@ h2 {
   color:mediumvioletred;
 }
 
+p {
+  font-weight: bold;
+  font-size: 20px;
+  color:mediumpurple;
+}
+
 ul, ol {
   margin-left: 25px;
 }
