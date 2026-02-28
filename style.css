@@ -4,7 +4,6 @@
   margin: 0;
  font-family: 'Comic Sans MS',sans-serif; 
 color:indigo; 
-font-size: 16px; 
 }
 
 ul, ol {
@@ -21,6 +20,28 @@ ul li{
 
 ol li{
   list-style-type: upper-roman;
+}
+
+img{
+  height: 500px;
+  width: auto;
+  align: center;
+}
+
+a:link{
+  color: deeppink ;
+    }
+a:visited{
+  color: red;
+}
+
+a:hover{
+  color: magenta;
+  text-decoration: none;
+}
+
+a:active{
+  color: salmon;
 }
   
 /*select html and set the background color, color, font family with fallback, and font size. */
