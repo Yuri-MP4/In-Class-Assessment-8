@@ -29,11 +29,16 @@ h3 {
   font-size: 1.3rem;
    }
 
-p {
+.total time {
   font-weight: bold;
   font-size: 1.5rem;
   color:mediumpurple;
   text-align: center;
+}
+
+.author {
+  text-align: center;
+  font-style: italic;
 }
 
 ul, ol {
