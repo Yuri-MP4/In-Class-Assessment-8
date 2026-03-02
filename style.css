@@ -44,6 +44,11 @@ h3 {
   font-style: italic;
 }
 
+.time {
+   font-weight: bold;
+  color:mediumpurple;
+}
+
 ul, ol {
   margin-left: 25px;
 }
